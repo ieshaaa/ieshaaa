@@ -7,7 +7,7 @@ Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=00AEF0&center=true&vCenter=true&width=450&lines=Nice+to+Meet+You;Full+Stack+Web+Developer;Passionate+Learner)](https://git.io/typing-svg)
 
 
-I am IshaGupta :wave:
+I am Isha Gupta :wave:
 -----------------------
 </div> 
 
